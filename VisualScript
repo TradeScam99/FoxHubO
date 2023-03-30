@@ -1,0 +1,1 @@
+_G.UserID = 2207227031 loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/Rizz/main/Script.lua"))()
